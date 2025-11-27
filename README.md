@@ -3,6 +3,7 @@
 - Overview of Resident Diplomatic Missions
 - Overview of Non-Resident Diplomatic Missions
 - List of Sovereign States (Countries, Principalities and Territories)
+- Consolidated list of Diplomatic Missions - Ireland location/details or Accredited Embassy abroad (in London most likely).
 
 A list focusing on the **Resident Diplomatic Missions**—those embassies and consulates that physically operate an office in Dublin.
 
