@@ -1,6 +1,6 @@
 # Definitions and Lists of Diplomatic Missions in Ireland
 
-A comprehensive list of diplomatic missions, such as Embassies and Consulates etc, in Ireland
+A list focusing on the **Resident Diplomatic Missions**—those embassies and consulates that physically operate an office in Dublin.
 
 To see a list of non-resident, honorary or closed missions in Ireland, please see [Other Diplomatic Missions](https://github.com/Transparency-2025/Ireland-Embassies-and-Consulates/blob/main/OTHER.md)
 
