@@ -2,6 +2,8 @@
 
 A comprehensive list of diplomatic missions, such as Embassies and Consulates etc, in Ireland
 
+To see a list of non-resident, honorary or closed missions in Ireland, please see [Other Diplomatic Missions](https://github.com/Transparency-2025/Ireland-Embassies-and-Consulates/blob/main/OTHER.md)
+
 ### **Definitions of Diplomatic Missions**
 
 Before viewing the contact list, it is helpful to understand the differences between the types of missions, as this affects the services they can provide.
